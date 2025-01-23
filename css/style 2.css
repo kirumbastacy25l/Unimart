@@ -1,0 +1,39 @@
+form{
+
+
+
+    padding-left: 50px;
+    padding-right: 80px;
+    width: 300px;
+
+    padding-top: 30px;
+}
+
+legend{
+
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+input[type=email],input[type=text],input[type=message]{
+    width: 100%;
+height: 40px;
+border-color: white;
+    border-radius: 5px;
+
+}
+
+button{
+    background-color: deepskyblue;color: white;
+    
+    
+    border-radius: 20px;
+    height: 50px;
+    width: 5px;
+text-align: center;
+    border-color: deepskyblue;
+
+
+}
